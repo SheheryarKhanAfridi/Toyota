@@ -1,0 +1,12 @@
+.headerMneu li{
+    margin: 2px;
+}
+.headerMneu li a:hover{
+    background: grey;
+    color: white !important;
+}
+.cartStyle {
+    font-size: 30px;
+    color: rgb(97, 97, 97);
+}
+
